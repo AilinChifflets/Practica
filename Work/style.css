@@ -1,0 +1,18 @@
+body {
+    background-color: beige;
+    max-width: 1500px;
+    margin-right: 20px;
+    margin-left: 20px;
+    text-align: justify;
+    line-height: 1.5;
+    background-clip: padding-box;
+}
+
+h1 {
+    text-align: center;
+}
+
+pre {
+    float: left;
+    text-align: justify;
+}
